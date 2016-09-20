@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>5843</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Invalid CSS property value</problem_class>
+    <description>Mismatched property value (none | &amp;lt;length&amp;gt; | [initial | inherit | unset | revert])</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>5844</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Invalid CSS property value</problem_class>
+    <description>Mismatched property value (none | &amp;lt;length&amp;gt; | [initial | inherit | unset | revert])</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>6123</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Invalid CSS property value</problem_class>
+    <description>Mismatched property value (&amp;lt;all&amp;gt; | &amp;lt;min-width&amp;gt; &amp;lt;max-width&amp;gt;)</description>
+  </problem>
+</problems>
+

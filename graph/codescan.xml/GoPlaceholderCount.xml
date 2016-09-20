@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/web.go</file>
+    <line>349</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/web.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/web.go</file>
+    <line>487</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/web.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/rules/recording.go</file>
+    <line>79</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/rules/recording.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config_test.go</file>
+    <line>344</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config_test.go</file>
+    <line>430</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>335</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>461</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>464</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>608</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>614</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>643</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>682</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>709</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>712</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>744</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>747</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>778</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>835</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>838</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>841</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>844</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>872</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>964</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse_test.go</file>
+    <line>1453</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse_test.go</file>
+    <line>1499</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse_test.go</file>
+    <line>1505</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse_test.go</file>
+    <line>1510</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse_test.go</file>
+    <line>1736</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse_test.go</file>
+    <line>1758</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse_test.go</file>
+    <line>1869</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse_test.go</file>
+    <line>1885</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse_test.go</file>
+    <line>1913</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse.go</file>
+    <line>323</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse.go</file>
+    <line>1133</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/lex_test.go</file>
+    <line>457</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/lex_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine_test.go</file>
+    <line>44</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine_test.go</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine_test.go</file>
+    <line>65</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine_test.go</file>
+    <line>88</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine_test.go</file>
+    <line>122</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine_test.go</file>
+    <line>171</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine_test.go</file>
+    <line>178</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine_test.go</file>
+    <line>186</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine_test.go</file>
+    <line>211</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/test.go</file>
+    <line>345</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/test.go</file>
+    <line>372</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/test.go</file>
+    <line>474</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine.go</file>
+    <line>98</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine.go</file>
+    <line>111</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine.go</file>
+    <line>124</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine.go</file>
+    <line>560</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/notifier/notifier_test.go</file>
+    <line>81</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/notifier/notifier_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/notifier/notifier_test.go</file>
+    <line>90</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/notifier/notifier_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/notifier/notifier_test.go</file>
+    <line>99</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/notifier/notifier_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/notifier/notifier_test.go</file>
+    <line>287</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/notifier/notifier_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/notifier/notifier_test.go</file>
+    <line>313</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/notifier/notifier_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/target_test.go</file>
+    <line>91</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/target_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/target_test.go</file>
+    <line>382</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/target_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/targetmanager.go</file>
+    <line>426</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/targetmanager.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>43</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>46</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>49</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>108</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>112</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>203</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>207</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>218</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>320</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>326</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>339</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>345</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>379</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>412</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>427</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>477</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape_test.go</file>
+    <line>525</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/cmd/promtool/main.go</file>
+    <line>76</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/cmd/promtool/main.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/cmd/promtool/main.go</file>
+    <line>78</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/cmd/promtool/main.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/cmd/promtool/main.go</file>
+    <line>168</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/cmd/promtool/main.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/cmd/promtool/main.go</file>
+    <line>170</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/cmd/promtool/main.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage.go</file>
+    <line>715</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage.go</file>
+    <line>720</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage_test.go</file>
+    <line>507</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage_test.go</file>
+    <line>1186</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/file_test.go</file>
+    <line>81</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/file_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/file_test.go</file>
+    <line>89</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/file_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/api/v1/api.go</file>
+    <line>241</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/api/v1/api.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/api/v1/api.go</file>
+    <line>290</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/api/v1/api.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/balancer.go</file>
+    <line>304</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/balancer.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/dns/dns.go</file>
+    <line>228</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/dns/dns.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/marathon/marathon_test.go</file>
+    <line>183</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/marathon/marathon_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go</file>
+    <line>167</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go</file>
+    <line>173</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go</file>
+    <line>191</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/asaskevich/govalidator/validator.go</file>
+    <line>671</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/asaskevich/govalidator/validator.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/asaskevich/govalidator/validator.go</file>
+    <line>675</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/asaskevich/govalidator/validator.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/asaskevich/govalidator/validator.go</file>
+    <line>696</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/asaskevich/govalidator/validator.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/credentials/credentials.go</file>
+    <line>202</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/credentials/credentials.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/sender.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/sender.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/sender.go</file>
+    <line>234</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/sender.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go</file>
+    <line>499</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go</file>
+    <line>504</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go</file>
+    <line>543</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/flw.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/flw.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/flw.go</file>
+    <line>194</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/flw.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/flw.go</file>
+    <line>225</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/flw.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/flw.go</file>
+    <line>232</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/flw.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/server_java.go</file>
+    <line>124</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/server_java.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>183</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>194</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>253</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>263</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>268</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>273</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>281</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>295</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>310</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>319</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>322</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>342</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>348</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>362</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>470</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>475</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>480</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>485</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>519</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>524</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>545</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>600</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>622</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>625</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>630</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>640</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>653</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>669</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>691</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>696</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>713</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/lock.go</file>
+    <line>36</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/lock.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/lock.go</file>
+    <line>40</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/lock.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/lock.go</file>
+    <line>44</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/lock.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/lock.go</file>
+    <line>48</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/lock.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/lock.go</file>
+    <line>87</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/lock.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/session.go</file>
+    <line>153</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/session.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/semaphore.go</file>
+    <line>37</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/semaphore.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/semaphore.go</file>
+    <line>41</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/semaphore.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/semaphore.go</file>
+    <line>45</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/semaphore.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/semaphore.go</file>
+    <line>49</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/semaphore.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/semaphore.go</file>
+    <line>103</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/semaphore.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/semaphore.go</file>
+    <line>106</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/hashicorp/consul/api/semaphore.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/log/log.go</file>
+    <line>77</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/log/log.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/log/syslog_formatter.go</file>
+    <line>29</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/log/syslog_formatter.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/log/syslog_formatter.go</file>
+    <line>32</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/log/syslog_formatter.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/alert.go</file>
+    <line>87</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/alert.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/alert.go</file>
+    <line>90</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/alert.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/alert.go</file>
+    <line>96</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/alert.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go</file>
+    <line>37</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go</file>
+    <line>37</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go</file>
+    <line>80</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go</file>
+    <line>88</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go</file>
+    <line>91</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go</file>
+    <line>94</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go</file>
+    <line>97</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go</file>
+    <line>100</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go</file>
+    <line>103</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/silence.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go</file>
+    <line>163</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/aws/corehandlers/handlers.go</file>
+    <line>113</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/aws/corehandlers/handlers.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Argument &lt;code&gt;r.Service.Config.SleepDelay&lt;/code&gt; is not a function call #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/azure/token.go</file>
+    <line>94</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/azure/token.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Printf/Logf placeholder handler</problem_class>
+    <description>Value used for formatting text does not appear to contain a placeholder #loc</description>
+  </problem>
+</problems>
+

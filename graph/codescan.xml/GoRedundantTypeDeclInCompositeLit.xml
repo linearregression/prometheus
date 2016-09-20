@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/notifier/notifier_test.go</file>
+    <line>194</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/notifier/notifier_test.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/notifier/notifier_test.go</file>
+    <line>199</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/notifier/notifier_test.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/notifier/notifier_test.go</file>
+    <line>224</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/notifier/notifier_test.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>961</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>962</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>963</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>964</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>967</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>970</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>971</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>972</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>973</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>978</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>979</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>982</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>983</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>984</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>985</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>988</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>989</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>977</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>981</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>987</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>993</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>994</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>997</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1000</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1001</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1002</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1003</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1009</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1010</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1006</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1007</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1008</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>976</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>992</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>996</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>999</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1005</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>960</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>966</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>969</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>975</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1016</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1017</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1018</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1019</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1020</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1021</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1022</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1023</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>959</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>1015</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>958</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>957</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/client.go</file>
+    <line>69</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/client.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go</file>
+    <line>32</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go</file>
+    <line>40</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go</file>
+    <line>48</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go</file>
+    <line>56</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go</file>
+    <line>61</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go</file>
+    <line>69</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go</file>
+    <line>74</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go</file>
+    <line>115</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/discovery/kubernetes/discovery_test.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2206</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2207</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2208</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2209</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2210</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2211</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2212</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2213</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2214</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2215</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2216</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2217</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2218</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2219</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2220</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2221</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2222</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2223</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2224</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2225</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2226</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2227</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2228</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2229</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2230</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2231</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2232</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2233</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2234</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2235</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2236</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2237</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2238</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2239</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2240</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2241</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2242</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2243</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2244</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2245</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2246</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2247</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2248</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2249</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2250</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2251</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2252</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2253</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2254</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2255</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2256</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2257</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2258</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2259</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2260</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2261</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2262</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2263</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2264</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2265</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2266</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2267</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2268</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2269</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant type declaration in composite literals</problem_class>
+    <description>Redundant type declaration</description>
+  </problem>
+</problems>
+

@@ -15,6 +15,7 @@ GO           := GO15VENDOREXPERIMENT=1 go
 FIRST_GOPATH := $(firstword $(subst :, ,$(GOPATH)))
 PROMU        := $(FIRST_GOPATH)/bin/promu
 pkgs          = $(shell $(GO) list ./... | grep -v /vendor/)
+graphpkgs     = $(shell $(GO) list ./... | grep /'cmd\|web\|retrieval\|storage\|rules\util'/) 
 
 PREFIX                  ?= $(shell pwd)
 BIN_DIR                 ?= $(shell pwd)
@@ -71,5 +72,8 @@ promu:
 	GOARCH=$(subst x86_64,amd64,$(patsubst i%86,386,$(shell uname -m))) \
 	$(GO) get -u github.com/prometheus/promu
 
+gengraph:
+	@echo ">> generating graph" && mkdir -p graph
+	@($foreach p, $(graphpkgs), $(eval godepgraph $(p) | dot -Tpng -o $(p).png)) && mv *.png graph
 
-.PHONY: all style check_license format build test vet assets tarball docker promu
+.PHONY: all style check_license format build test vet assets tarball docker promu gengraph

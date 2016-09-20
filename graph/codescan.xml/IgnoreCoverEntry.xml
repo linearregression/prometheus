@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>14</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cover entry</problem_class>
+    <description>&lt;code&gt;*.iml&lt;/code&gt; is covered by &lt;a href=&quot;file:///Users/etsang/opensource/go/src/github.com/prometheus/prometheus/.gitignore#103&quot;&gt;.idea&lt;/a&gt; #loc</description>
+  </problem>
+</problems>
+

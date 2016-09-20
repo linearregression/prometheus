@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go</file>
+    <line>657</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Bool condition inspection</problem_class>
+    <description>Simplify</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go</file>
+    <line>871</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Bool condition inspection</problem_class>
+    <description>Simplify</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go</file>
+    <line>875</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Bool condition inspection</problem_class>
+    <description>Simplify</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>149</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+    <description>Local variable 'inverse' is redundant</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>385</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+    <description>Local variable 'lexer' is redundant</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/node-disk.html</file>
+    <line>49</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/node-disk.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unneeded last comma in array literal</problem_class>
+    <description>Unneeded comma</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/node-overview.html</file>
+    <line>88</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/node-overview.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unneeded last comma in array literal</problem_class>
+    <description>Unneeded comma</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/node-overview.html</file>
+    <line>109</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/node-overview.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unneeded last comma in array literal</problem_class>
+    <description>Unneeded comma</description>
+  </problem>
+</problems>
+

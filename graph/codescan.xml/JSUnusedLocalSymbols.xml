@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>13</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable PATH_PREFIX</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>493</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable legend</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>468</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable hoverDetail</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>511</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable yAxis</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>535</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable highlighter</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>520</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable hoverDetail</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>509</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable xAxis</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>540</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable shelving</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>558</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter textStatus</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>573</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter textStatus</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>381</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter msg</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>189</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter textStatus</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>61</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable tmpLength</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.hotkeys.js</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.hotkeys.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable key</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>1772</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter skipCompileStack</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>1280</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable opcode</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>555</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable YYSTATE</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>485</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable col</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>1052</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter inverse</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>1052</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter program</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>175</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter _$</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>58</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable ret</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>1322</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable aliases</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>1214</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter type</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>1284</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter opcode</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>277</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter hash</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>281</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable EOF</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>293</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused function popStack</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>281</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable TERROR</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>306</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable a</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>659</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter e</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>667</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter e</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>873</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable methodName</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>671</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter e</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>32</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable smartPhone</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>38</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused local variable dateToDate</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>675</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter e</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>663</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter e</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>651</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter e</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>655</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript local symbol</problem_class>
+    <description>Unused parameter e</description>
+  </problem>
+</problems>
+

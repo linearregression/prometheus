@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/crashrecovery.go</file>
+    <line>64</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/crashrecovery.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Defer in loop</problem_class>
+    <description>Possible resource leak, 'defer' is called in a for loop.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage_test.go</file>
+    <line>800</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage_test.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Defer in loop</problem_class>
+    <description>Possible resource leak, 'defer' is called in a for loop.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/http2_server.go</file>
+    <line>659</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/http2_server.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Defer in loop</problem_class>
+    <description>Possible resource leak, 'defer' is called in a for loop.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go</file>
+    <line>766</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Defer in loop</problem_class>
+    <description>Possible resource leak, 'defer' is called in a for loop.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go</file>
+    <line>804</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Defer in loop</problem_class>
+    <description>Possible resource leak, 'defer' is called in a for loop.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_golang/prometheus/registry.go</file>
+    <line>438</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_golang/prometheus/registry.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Defer in loop</problem_class>
+    <description>Possible resource leak, 'defer' is called in a for loop.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_golang/prometheus/registry.go</file>
+    <line>444</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_golang/prometheus/registry.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Defer in loop</problem_class>
+    <description>Possible resource leak, 'defer' is called in a for loop.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go</file>
+    <line>809</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Defer in loop</problem_class>
+    <description>Possible resource leak, 'defer' is called in a for loop.</description>
+  </problem>
+</problems>
+

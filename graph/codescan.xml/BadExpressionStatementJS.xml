@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>439</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Expression statement which is not assignment or call</problem_class>
+    <description>Expression statement is not assignment or call #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>635</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Expression statement which is not assignment or call</problem_class>
+    <description>Expression statement is not assignment or call #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>986</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Expression statement which is not assignment or call</problem_class>
+    <description>Expression statement is not assignment or call #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>1095</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Expression statement which is not assignment or call</problem_class>
+    <description>Expression statement is not assignment or call #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>2089</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Expression statement which is not assignment or call</problem_class>
+    <description>Expression statement is not assignment or call #loc</description>
+  </problem>
+</problems>
+

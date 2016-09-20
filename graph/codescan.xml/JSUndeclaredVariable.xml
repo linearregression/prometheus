@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>572</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Implicitly declared global JavaScript variable</problem_class>
+    <description>Variable match implicitly declared #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>591</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Implicitly declared global JavaScript variable</problem_class>
+    <description>Variable name implicitly declared #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>394</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Implicitly declared global JavaScript variable</problem_class>
+    <description>Variable interval implicitly declared #loc</description>
+  </problem>
+</problems>
+

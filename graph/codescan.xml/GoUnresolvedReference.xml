@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>18</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Unresolved reference inspection</problem_class>
+    <description>Unresolved reference 'Entersyscall'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>20</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Unresolved reference inspection</problem_class>
+    <description>Unresolved reference 'Exitsyscall'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>25</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Unresolved reference inspection</problem_class>
+    <description>Unresolved reference 'Entersyscall'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>27</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Unresolved reference inspection</problem_class>
+    <description>Unresolved reference 'Exitsyscall'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>32</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Unresolved reference inspection</problem_class>
+    <description>Unresolved reference 'Entersyscall'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>34</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Unresolved reference inspection</problem_class>
+    <description>Unresolved reference 'Exitsyscall'</description>
+  </problem>
+</problems>
+

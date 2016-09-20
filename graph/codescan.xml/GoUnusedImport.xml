@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/remote.pb.go</file>
+    <line>20</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/remote.pb.go" />
+    <problem_class severity="ERROR" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import inspection</problem_class>
+    <description>Redundant alias</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/remote.pb.go</file>
+    <line>21</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/remote.pb.go" />
+    <problem_class severity="ERROR" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import inspection</problem_class>
+    <description>Redundant alias</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/remote.pb.go</file>
+    <line>22</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/remote.pb.go" />
+    <problem_class severity="ERROR" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import inspection</problem_class>
+    <description>Redundant alias</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/remote.pb.go</file>
+    <line>25</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/remote.pb.go" />
+    <problem_class severity="ERROR" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import inspection</problem_class>
+    <description>Redundant alias</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/remote.pb.go</file>
+    <line>26</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/remote.pb.go" />
+    <problem_class severity="ERROR" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import inspection</problem_class>
+    <description>Redundant alias</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>25</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="ERROR" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import inspection</problem_class>
+    <description>Redundant alias</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>26</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="ERROR" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import inspection</problem_class>
+    <description>Redundant alias</description>
+  </problem>
+</problems>
+

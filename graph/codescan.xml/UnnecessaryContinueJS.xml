@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>938</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary 'continue' statement</problem_class>
+    <description>continue is unnecessary as the last statement in a loop #loc</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse_test.go</file>
+    <line>1865</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;metric&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine.go</file>
+    <line>884</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;metric&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/cmd/prometheus/config.go</file>
+    <line>328</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/cmd/prometheus/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;url&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/cmd/prometheus/config.go</file>
+    <line>344</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/cmd/prometheus/config.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;url&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/cmd/prometheus/main.go</file>
+    <line>95</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/cmd/prometheus/main.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;notifier&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/cmd/prometheus/main.go</file>
+    <line>112</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/cmd/prometheus/main.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;version&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>116</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>136</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>156</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>176</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>196</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>216</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>236</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>256</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>276</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>296</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>316</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>336</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>356</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>376</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>396</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>416</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>436</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>456</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>476</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>496</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>516</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>536</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>556</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>576</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>596</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>616</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>636</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>656</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>676</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>696</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>716</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>736</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>756</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>776</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>796</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/bindata.go</file>
+    <line>816</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/bindata.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;bytes&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage.go</file>
+    <line>687</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;metric&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage.go</file>
+    <line>877</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;metric&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage_test.go</file>
+    <line>42</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;metric&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage_test.go</file>
+    <line>292</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;metric&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage_test.go</file>
+    <line>1676</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;metric&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/opentsdb/tagvalue_test.go</file>
+    <line>35</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/opentsdb/tagvalue_test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;json&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/server.go</file>
+    <line>377</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/server.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;net&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/nsecx.go</file>
+    <line>81</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/nsecx.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;hash&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/nsecx.go</file>
+    <line>107</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/nsecx.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;hash&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/asaskevich/govalidator/validator.go</file>
+    <line>68</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/asaskevich/govalidator/validator.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;url&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/options.go</file>
+    <line>30</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/options.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;filter&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/options.go</file>
+    <line>38</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/options.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;filter&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/aws/ec2metadata/service.go</file>
+    <line>60</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/aws/ec2metadata/service.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;service&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/service/ec2/service.go</file>
+    <line>31</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/service/ec2/service.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;service&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/azure/token.go</file>
+    <line>156</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/azure/token.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;jwt&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/internal/signer/v4/v4.go</file>
+    <line>303</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/internal/signer/v4/v4.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Imported package name as name identifier</problem_class>
+    <description>Variable &lt;code&gt;credentials&lt;/code&gt; collides with imported package name #loc</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/node-disk.html</file>
+    <line>5</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/node-disk.html" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/node-disk.html</file>
+    <line>26</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/node-disk.html" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/haproxy.html</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/haproxy.html" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/haproxy-backends.html</file>
+    <line>17</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/haproxy-backends.html" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/haproxy-backends.html</file>
+    <line>17</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/haproxy-backends.html" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Start tag has wrong closing tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/node-overview.html</file>
+    <line>34</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/node-overview.html" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/node-overview.html</file>
+    <line>62</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/node-overview.html" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>74</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>79</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>423</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>427</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>441</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>445</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable metric #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>586</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable __name__ #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>600</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>600</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable metric #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>604</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable metric #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>610</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>570</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>570</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>116</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable end_input #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>117</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable end_input #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>359</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable responseJSON #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>360</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable responseJSON #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>414</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable __name__ #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>445</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable metric #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>449</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable metric #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>450</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable metric #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>525</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable __name__ #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>587</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>589</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable metric #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>589</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>598</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>600</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable metric #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>600</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/vaughan0/go-ini/ini.go</file>
+    <line>14</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/vaughan0/go-ini/ini.go" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/procfs/mdstat.go</file>
+    <line>12</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/procfs/mdstat.go" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/procfs/mdstat.go</file>
+    <line>12</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/procfs/mdstat.go" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>44</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable value #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>46</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Returned expression type {text: string, start: number, end: number} is not assignable to type Integer #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>52</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable selectionStart #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable selectionEnd #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>54</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable value #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>57</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method focus() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>69</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method createTextRange() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>73</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable value #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>80</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Returned expression type {text: string, start: number, end: number} is not assignable to type Integer #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>98</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Returned expression type {start: *, end: *} is not assignable to type Integer #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>119</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method focus() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>121</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable createTextRange #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>122</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method createTextRange() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>125</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable value #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>126</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable value #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>134</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable setSelectionRange #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>135</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method setSelectionRange() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>186</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable value #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>187</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>192</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>205</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable value #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>206</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>211</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>224</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable value #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>225</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>230</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>258</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method createRange() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>649</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved type PrintVisitor #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>1075</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable knownHelpersOnly #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>1119</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method call() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>1147</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable knownHelpersOnly #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>633</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>633</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>633</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>633</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>633</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>633</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>633</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>633</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>633</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>633</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>1151</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>1151</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>1151</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>1151</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>1151</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>1151</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>1151</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>1151</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>1151</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>1151</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>32</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable orientation #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>293</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>294</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>447</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>467</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>480</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>481</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>483</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>484</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>491</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>492</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>494</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>495</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>590</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>593</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>614</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>615</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Duplicate declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>905</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable UTCFullYear #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>906</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable UTCYear #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>906</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable UTCYear #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>908</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable UTCMonth #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>908</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable UTCMonth #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>911</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable UTCHours #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>912</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable UTCMinutes #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>913</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable UTCSeconds #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>914</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable UTCMilliseconds #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>915</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable Hours12 #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>916</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable Hours12 #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>918</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable Period12 #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>919</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable Period12 #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>1089</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method each() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/mkpost.go</file>
+    <line>46</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/mkpost.go" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>208</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable resetText #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>1877</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>1906</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>2313</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable offsetBottom #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>2313</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable offsetBottom #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js</file>
+    <line>2</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Element is not exported #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js</file>
+    <line>3</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Element is not exported #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js</file>
+    <line>4</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Element is not exported #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js</file>
+    <line>5</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Element is not exported #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js</file>
+    <line>6</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Element is not exported #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Element is not exported #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js</file>
+    <line>8</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Element is not exported #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js</file>
+    <line>9</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Element is not exported #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js</file>
+    <line>10</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Element is not exported #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js</file>
+    <line>11</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Element is not exported #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js</file>
+    <line>12</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Element is not exported #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js</file>
+    <line>13</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/npm.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Element is not exported #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/aws/awsutil/path_value.go</file>
+    <line>10</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/aws/awsutil/path_value.go" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+</problems>
+

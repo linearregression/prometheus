@@ -1,0 +1,3068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/web.go</file>
+    <line>478</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/web.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;r&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse.go</file>
+    <line>89</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;m&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/functions.go</file>
+    <line>39</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/functions.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;args&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/functions.go</file>
+    <line>204</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/functions.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;sf&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/functions.go</file>
+    <line>204</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/functions.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;d&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine.go</file>
+    <line>628</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;v&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/template/template.go</file>
+    <line>264</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/template/template.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;result&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/template/template.go</file>
+    <line>291</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/template/template.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;result&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/target_test.go</file>
+    <line>129</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/target_test.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;deadline&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/targetmanager.go</file>
+    <line>424</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/targetmanager.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;res&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/targetmanager.go</file>
+    <line>424</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/targetmanager.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;orig&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/targetmanager.go</file>
+    <line>424</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/targetmanager.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/cmd/promtool/main.go</file>
+    <line>186</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/cmd/promtool/main.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;t&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/util/strutil/quote.go</file>
+    <line>34</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/util/strutil/quote.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;t&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/util/strutil/quote.go</file>
+    <line>34</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/util/strutil/quote.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/util/strutil/quote.go</file>
+    <line>212</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/util/strutil/quote.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;v&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/util/strutil/quote.go</file>
+    <line>212</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/util/strutil/quote.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/varbit.go</file>
+    <line>427</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/varbit.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;repeats&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/varbit.go</file>
+    <line>647</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/varbit.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;newOffset&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/varbit.go</file>
+    <line>647</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/varbit.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;overflow&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage.go</file>
+    <line>1228</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;becameDirty&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/persistence.go</file>
+    <line>139</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/persistence.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;minShrinkRatio&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/persistence.go</file>
+    <line>705</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/persistence.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;chunksToPersist&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/persistence.go</file>
+    <line>1127</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/persistence.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;deletedAnything&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/encode.go</file>
+    <line>223</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/encode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;result&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yamlprivateh.go</file>
+    <line>81</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yamlprivateh.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;i&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/resolve.go</file>
+    <line>83</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/resolve.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;out&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/sorter.go</file>
+    <line>73</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/sorter.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;f&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/sorter.go</file>
+    <line>73</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/sorter.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/emitterc.go</file>
+    <line>673</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/emitterc.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;event&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/emitterc.go</file>
+    <line>741</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/emitterc.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;emitter&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go</file>
+    <line>224</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;good&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go</file>
+    <line>253</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;newout&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go</file>
+    <line>253</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;unmarshaled&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go</file>
+    <line>301</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;good&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go</file>
+    <line>478</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;good&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go</file>
+    <line>510</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;good&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go</file>
+    <line>572</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;good&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go</file>
+    <line>603</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;good&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/scannerc.go</file>
+    <line>609</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/scannerc.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;problem&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go</file>
+    <line>42</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go</file>
+    <line>52</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go</file>
+    <line>52</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/parserc.go</file>
+    <line>996</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/parserc.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;parser&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/rpc_util.go</file>
+    <line>230</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/rpc_util.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/balancer.go</file>
+    <line>272</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/balancer.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;put&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/backoff.go</file>
+    <line>61</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/backoff.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;t&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/index/index.go</file>
+    <line>277</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/index/index.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;firstTime&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/index/index.go</file>
+    <line>277</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/index/index.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;lastTime&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/index/leveldb.go</file>
+    <line>102</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/index/leveldb.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;has&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/index/leveldb.go</file>
+    <line>102</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/index/leveldb.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storagetool/main.go</file>
+    <line>39</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storagetool/main.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;t&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/defaults.go</file>
+    <line>158</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/defaults.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/defaults.go</file>
+    <line>232</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/defaults.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;arpa&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/defaults.go</file>
+    <line>232</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/defaults.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>139</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>154</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>344</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>542</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>886</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1081</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1120</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1280</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1348</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1382</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1414</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1446</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1504</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1533</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1589</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1624</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1635</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1646</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1675</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1734</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1772</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1807</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1832</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1844</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1858</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1870</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1904</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1917</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1940</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>1995</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2018</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2033</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2048</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go</file>
+    <line>2173</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/zscan_rr.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/singleinflight.go</file>
+    <line>33</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/singleinflight.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;v&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/singleinflight.go</file>
+    <line>33</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/singleinflight.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;rtt&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/singleinflight.go</file>
+    <line>33</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/singleinflight.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/singleinflight.go</file>
+    <line>33</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/singleinflight.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;shared&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/labels.go</file>
+    <line>127</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/labels.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;end&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/labels.go</file>
+    <line>150</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/labels.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;i&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/labels.go</file>
+    <line>150</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/labels.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;start&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/client.go</file>
+    <line>152</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/client.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;rtt&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/dnssec.go</file>
+    <line>595</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/dnssec.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go</file>
+    <line>242</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;off1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go</file>
+    <line>242</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go</file>
+    <line>625</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;off1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go</file>
+    <line>936</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;off1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go</file>
+    <line>941</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;off1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go</file>
+    <line>948</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;off1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go</file>
+    <line>1455</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;off1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go</file>
+    <line>1548</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;msg&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go</file>
+    <line>1548</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/msg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/udp_other.go</file>
+    <line>14</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/udp_other.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;conn&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/udp_other.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/udp_other.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;conn&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/udp_other.go</file>
+    <line>16</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/udp_other.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;conn&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/udp_other.go</file>
+    <line>17</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/udp_other.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;conn&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode.go</file>
+    <line>172</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;errRet&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode.go</file>
+    <line>207</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;errRet&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>14</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;dst&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>14</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;lit&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>19</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;dst&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>19</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;offset&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>19</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;length&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>24</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;src&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>24</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;i&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>24</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;j&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>29</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;dst&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>29</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;src&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>29</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;d&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/decode.go</file>
+    <line>32</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;blockLen&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/decode.go</file>
+    <line>32</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;headerLen&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/decode.go</file>
+    <line>32</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/decode.go</file>
+    <line>107</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/decode_amd64.go</file>
+    <line>14</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/decode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;dst&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/decode_amd64.go</file>
+    <line>14</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/decode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;src&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/vaughan0/go-ini/ini.go</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/vaughan0/go-ini/ini.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/token.go</file>
+    <line>94</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/token.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;token&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/token.go</file>
+    <line>94</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/token.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/asaskevich/govalidator/validator.go</file>
+    <line>660</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/asaskevich/govalidator/validator.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;v&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/procfs/mdstat.go</file>
+    <line>33</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/procfs/mdstat.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;mdstates&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/transport.go</file>
+    <line>132</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/transport.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/transport.go</file>
+    <line>349</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/transport.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;protocol&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/http_util.go</file>
+    <line>224</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/http_util.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;d&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/http_util.go</file>
+    <line>224</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/http_util.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/http2_server.go</file>
+    <line>94</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/http2_server.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/http2_server.go</file>
+    <line>145</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/transport/http2_server.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;close&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/google.golang.org/grpc/credentials/credentials.go</file>
+    <line>146</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/google.golang.org/grpc/credentials/credentials.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/aws/types.go</file>
+    <line>69</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/aws/types.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/aws/types.go</file>
+    <line>69</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/aws/types.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/sender.go</file>
+    <line>147</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/sender.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;duration&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/properties.go</file>
+    <line>813</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/properties.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;unusedNameMap&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/encode.go</file>
+    <line>152</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/encode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;x&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/encode.go</file>
+    <line>168</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/encode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;x&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/message_set.go</file>
+    <line>286</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/message_set.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;exts&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go</file>
+    <line>255</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ch&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go</file>
+    <line>255</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;tail&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go</file>
+    <line>255</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go</file>
+    <line>322</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;v&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go</file>
+    <line>322</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go</file>
+    <line>740</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text.go</file>
+    <line>78</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text.go</file>
+    <line>78</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text.go</file>
+    <line>606</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/extensions.go</file>
+    <line>292</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/extensions.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/decode.go</file>
+    <line>212</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;s&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go</file>
+    <line>249</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;o&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/structs.go</file>
+    <line>383</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/structs.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/structs.go</file>
+    <line>474</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/samuel/go-zookeeper/zk/structs.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/key.go</file>
+    <line>92</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/key.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go</file>
+    <line>376</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;rkey&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go</file>
+    <line>376</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;rvalue&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go</file>
+    <line>386</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;rkey&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go</file>
+    <line>396</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;offset&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_state.go</file>
+    <line>148</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_state.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;e&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_state.go</file>
+    <line>148</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_state.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;f&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go</file>
+    <line>170</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;db&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go</file>
+    <line>234</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;db&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go</file>
+    <line>731</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go</file>
+    <line>832</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;value&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go</file>
+    <line>846</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ret&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/version.go</file>
+    <line>288</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/version.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_snapshot.go</file>
+    <line>102</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_snapshot.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;value&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_snapshot.go</file>
+    <line>119</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_snapshot.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ret&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go</file>
+    <line>34</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;duration&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go</file>
+    <line>34</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;read&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go</file>
+    <line>34</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;write&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go</file>
+    <line>76</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;duration&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go</file>
+    <line>76</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;read&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go</file>
+    <line>76</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;write&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/matttproud/golang_protobuf_extensions/pbutil/decode.go</file>
+    <line>38</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/matttproud/golang_protobuf_extensions/pbutil/decode.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/writesched.go</file>
+    <line>107</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/writesched.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;wm&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/writesched.go</file>
+    <line>107</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/writesched.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/writesched.go</file>
+    <line>180</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/writesched.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go</file>
+    <line>1725</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;r&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go</file>
+    <line>1924</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go</file>
+    <line>1924</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go</file>
+    <line>1949</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go</file>
+    <line>2169</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go</file>
+    <line>2169</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go</file>
+    <line>2173</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go</file>
+    <line>2173</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go</file>
+    <line>2178</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go</file>
+    <line>2178</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/server.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/http2.go</file>
+    <line>264</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/http2.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/http2.go</file>
+    <line>264</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/http2.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/fixed_buffer.go</file>
+    <line>25</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/fixed_buffer.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go</file>
+    <line>287</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;addr&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go</file>
+    <line>338</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;req&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go</file>
+    <line>613</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;contentLen&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go</file>
+    <line>955</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;taken&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go</file>
+    <line>955</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go</file>
+    <line>1892</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/transport.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/pipe.go</file>
+    <line>40</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/pipe.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/pipe.go</file>
+    <line>40</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/pipe.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/pipe.go</file>
+    <line>68</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/pipe.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/pipe.go</file>
+    <line>68</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/pipe.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/client_conn_pool.go</file>
+    <line>127</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/client_conn_pool.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;used&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/client_conn_pool.go</file>
+    <line>127</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/client_conn_pool.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go</file>
+    <line>696</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;v&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go</file>
+    <line>696</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go</file>
+    <line>1277</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;remain&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go</file>
+    <line>1277</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;b&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go</file>
+    <line>1277</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go</file>
+    <line>1284</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;remain&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go</file>
+    <line>1284</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;v&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go</file>
+    <line>1284</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/frame.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/go17.go</file>
+    <line>30</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/go17.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;cancel&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/trace/events.go</file>
+    <line>50</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/trace/events.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;sensitive&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/trace/events.go</file>
+    <line>109</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/trace/events.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/trace/trace.go</file>
+    <line>246</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/trace/trace.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/context/go17.go</file>
+    <line>32</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/context/go17.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;cancel&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go</file>
+    <line>54</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go</file>
+    <line>66</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go</file>
+    <line>66</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go</file>
+    <line>297</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;sa&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go</file>
+    <line>314</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;value&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go</file>
+    <line>440</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go</file>
+    <line>440</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go</file>
+    <line>622</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;data&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go</file>
+    <line>622</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go</file>
+    <line>626</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;sec&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;nsec&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall.go</file>
+    <line>59</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;sec&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall.go</file>
+    <line>59</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;nsec&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall.go</file>
+    <line>76</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;p&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/env_unix.go</file>
+    <line>13</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/env_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;value&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/env_unix.go</file>
+    <line>13</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/env_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;found&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;trap&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a3&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a4&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a5&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a6&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a7&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a8&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a9&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;errno&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>17</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>17</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>17</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>24</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>24</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>24</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>31</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>31</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>31</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>38</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>38</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>38</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>43</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>43</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go</file>
+    <line>43</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/gccgo.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>52</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;trap&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>52</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>52</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>52</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a3&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>52</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>52</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>52</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;trap&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a3&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a4&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a5&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a6&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>54</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;trap&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>54</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>54</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>54</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a3&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>54</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>54</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>54</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;trap&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a3&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a4&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a5&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a6&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>66</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;data&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>66</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>95</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>183</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;sa&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>192</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;value&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>219</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>223</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>228</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>232</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>236</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>244</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>248</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>252</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>274</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;written&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>274</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/race0.go</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/race0.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;addr&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/race0.go</file>
+    <line>18</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/race0.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;addr&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/race0.go</file>
+    <line>21</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/race0.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;addr&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/race0.go</file>
+    <line>21</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/race0.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;len&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/race0.go</file>
+    <line>24</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/race0.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;addr&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/race0.go</file>
+    <line>24</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/race0.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;len&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;num&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a3&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a4&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a5&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a6&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a7&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a8&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;a9&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r1&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;r2&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go</file>
+    <line>75</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin.go</file>
+    <line>83</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;consumed&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin.go</file>
+    <line>83</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;newnames&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin.go</file>
+    <line>108</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin.go</file>
+    <line>109</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin.go</file>
+    <line>214</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_darwin.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go</file>
+    <line>17</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;d&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go</file>
+    <line>17</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go</file>
+    <line>68</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;json&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go</file>
+    <line>68</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go</file>
+    <line>74</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go</file>
+    <line>80</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;text&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go</file>
+    <line>80</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go</file>
+    <line>86</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/time.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/date.go</file>
+    <line>32</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/date.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;d&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/date.go</file>
+    <line>32</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/date.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/date.go</file>
+    <line>83</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/date.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;json&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/date.go</file>
+    <line>83</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/date.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/date.go</file>
+    <line>99</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/date.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;text&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/date.go</file>
+    <line>99</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/date/date.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/azure/async.go</file>
+    <line>121</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/Azure/go-autorest/autorest/azure/async.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;duration&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer.go</file>
+    <line>119</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer.go</file>
+    <line>119</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer.go</file>
+    <line>134</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer.go</file>
+    <line>181</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer.go</file>
+    <line>218</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer.go</file>
+    <line>248</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/cache/cache.go</file>
+    <line>87</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/cache/cache.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;done&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/cache/cache.go</file>
+    <line>87</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/cache/cache.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;added&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/cache/cache.go</file>
+    <line>149</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/cache/cache.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;done&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go</file>
+    <line>61</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go</file>
+    <line>706</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;b&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go</file>
+    <line>706</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;rel&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go</file>
+    <line>706</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go</file>
+    <line>887</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;rkey&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go</file>
+    <line>887</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;value&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go</file>
+    <line>887</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/reader.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/storage/file_storage.go</file>
+    <line>553</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/storage/file_storage.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/hpack/hpack.go</file>
+    <line>249</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/hpack/hpack.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;hf&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/hpack/hpack.go</file>
+    <line>249</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/hpack/hpack.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;ok&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/hpack/hpack.go</file>
+    <line>289</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/hpack/hpack.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;n&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/hpack/hpack.go</file>
+    <line>467</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/hpack/hpack.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;remain&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/hpack/hpack.go</file>
+    <line>467</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/hpack/hpack.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;err&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/hpack/hpack.go</file>
+    <line>508</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/hpack/hpack.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused named return parameter &lt;code&gt;remain&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/internal/protocol/ec2query/unmarshal.go</file>
+    <line>28</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/internal/protocol/ec2query/unmarshal.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;r&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/internal/protocol/xml/xmlutil/unmarshal.go</file>
+    <line>220</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/internal/protocol/xml/xmlutil/unmarshal.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter inspection</problem_class>
+    <description>Unused parameter &lt;code&gt;tag&lt;/code&gt; #loc</description>
+  </problem>
+</problems>
+

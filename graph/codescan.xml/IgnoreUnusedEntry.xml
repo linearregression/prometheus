@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>1</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;*#&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>2</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;.#*&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>3</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;*-stamp&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>4</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;/*.yaml&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>6</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;/*.rules&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;*.exe&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>11</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;*~&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>12</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;.*.swp&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>13</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;.*.swo&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>19</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;benchmark.txt&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>20</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;/data&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>21</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;/.build&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>22</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;/.release&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.gitignore</file>
+    <line>23</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.gitignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;/.tarballs&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.dockerignore</file>
+    <line>1</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.dockerignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;data/&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.dockerignore</file>
+    <line>2</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.dockerignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;.build/&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.dockerignore</file>
+    <line>3</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.dockerignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;.tarballs/&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/.dockerignore</file>
+    <line>5</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.dockerignore" />
+    <problem_class severity="UNUSED ENTRY" attribute_key="Unused entry">Unused entry</problem_class>
+    <description>&lt;code&gt;!.build/linux-amd64/&lt;/code&gt; entry is never used #loc</description>
+  </problem>
+</problems>
+

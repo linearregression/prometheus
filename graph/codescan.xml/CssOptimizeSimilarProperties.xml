@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/css/graph.css</file>
+    <line>143</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/css/graph.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/css/graph.css</file>
+    <line>144</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/css/graph.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/css/prom_console.css</file>
+    <line>159</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/css/prom_console.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/css/prom_console.css</file>
+    <line>160</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/css/prom_console.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>2364</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>2365</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>3258</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>3259</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>3970</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>3971</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>4038</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize margin properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>4039</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize margin properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>4040</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize margin properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>4041</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize margin properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>4123</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize border-radius properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>4124</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize border-radius properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>4125</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize border-radius properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>4126</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize border-radius properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>5635</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize border properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>5636</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize border properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>5746</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize border properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>5747</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize border properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>58</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>59</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>68</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>69</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>83</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>84</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>93</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>94</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>108</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>109</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>118</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>119</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>133</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>134</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>143</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>144</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>158</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>159</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>168</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>169</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>183</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>184</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>193</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>194</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Properties can be replaced with shorthand</problem_class>
+    <description>Optimize background properties</description>
+  </problem>
+</problems>
+

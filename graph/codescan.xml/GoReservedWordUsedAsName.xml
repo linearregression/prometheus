@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse.go</file>
+    <line>293</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;error&lt;/code&gt; collides with builtin type</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/parse.go</file>
+    <line>326</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/parse.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;recover&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/test.go</file>
+    <line>274</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/test.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;append&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine.go</file>
+    <line>546</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;error&lt;/code&gt; collides with builtin type</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/engine.go</file>
+    <line>551</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/engine.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;recover&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/retrieval/scrape.go</file>
+    <line>446</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/retrieval/scrape.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;append&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/heads.go</file>
+    <line>215</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/heads.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;close&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/persistence.go</file>
+    <line>1147</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/persistence.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;close&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/delta.go</file>
+    <line>294</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/delta.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/doubledelta.go</file>
+    <line>334</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/doubledelta.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/privaterr.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/privaterr.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/privaterr.go</file>
+    <line>56</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/privaterr.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>225</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>238</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>240</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>248</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>250</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>259</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>263</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>271</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>274</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>282</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>283</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>293</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>299</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>311</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>312</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>324</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>325</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>337</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>338</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>351</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>352</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>365</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>366</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>378</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>379</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>392</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>393</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>405</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>406</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>418</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>419</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>432</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>433</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>451</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>464</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>476</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>624</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>638</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>646</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>663</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>664</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>686</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>700</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>715</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>736</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>748</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>749</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>761</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>762</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>777</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>778</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>795</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>799</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>809</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>810</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>829</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>830</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>918</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>936</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>948</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>962</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>992</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>993</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1011</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1012</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1028</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1029</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1047</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1048</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1063</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1064</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1089</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1113</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1147</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1150</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1170</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1171</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1188</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1190</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1205</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1224</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1247</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1248</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1275</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1284</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1296</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1297</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1325</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1326</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1338</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1340</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1351</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1353</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1376</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1393</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1409</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1417</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1433</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1435</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1461</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1462</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1478</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1479</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1496</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1497</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1513</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1514</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1526</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1528</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1536</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1538</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1548</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1549</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1560</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1562</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1570</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1572</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1580</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1582</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1590</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1592</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1600</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1602</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1610</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go</file>
+    <line>1612</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/types.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/edns.go</file>
+    <line>81</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/edns.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/edns.go</file>
+    <line>91</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/edns.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/tsig.go</file>
+    <line>61</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/tsig.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/tsig.go</file>
+    <line>66</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/tsig.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/dns.go</file>
+    <line>52</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/dns.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/dns.go</file>
+    <line>79</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/dns.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/session.go</file>
+    <line>80</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/session.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;close&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/session.go</file>
+    <line>105</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/session.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;recover&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/batch.go</file>
+    <line>156</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/batch.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;append&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go</file>
+    <line>433</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;close&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go</file>
+    <line>483</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;append&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go</file>
+    <line>497</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;close&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go</file>
+    <line>276</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Variable &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go</file>
+    <line>299</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_bsd.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Variable &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>185</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Variable &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go</file>
+    <line>201</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/syscall_unix.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Variable &lt;code&gt;len&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/aws/request/handlers.go</file>
+    <line>60</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/aws/aws-sdk-go/aws/request/handlers.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;copy&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer_pool.go</file>
+    <line>234</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/util/buffer_pool.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Variable &lt;code&gt;cap&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/cache/cache.go</file>
+    <line>149</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/cache/cache.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;delete&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/cache/cache.go</file>
+    <line>326</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/cache/cache.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;delete&lt;/code&gt; collides with builtin function</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/writer.go</file>
+    <line>43</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table/writer.go" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Reserved word used as name</problem_class>
+    <description>Method &lt;code&gt;append&lt;/code&gt; collides with builtin function</description>
+  </problem>
+</problems>
+

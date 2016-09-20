@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>159</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant second index in slices inspection</problem_class>
+    <description>Redundant index</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>161</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant second index in slices inspection</problem_class>
+    <description>Redundant index</description>
+  </problem>
+</problems>
+

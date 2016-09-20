@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>247</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>347</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>448</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>598</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>633</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>672</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>699</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>734</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>768</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>825</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>862</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>891</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>925</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>955</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/config/config.go</file>
+    <line>1007</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/config/config.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/functions.go</file>
+    <line>1244</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/functions.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/functions.go</file>
+    <line>1251</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/functions.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/functions.go</file>
+    <line>1273</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/functions.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/promql/functions.go</file>
+    <line>1280</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/promql/functions.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/chunk.go</file>
+    <line>46</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/chunk.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/chunk.go</file>
+    <line>48</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/chunk.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/chunk.go</file>
+    <line>50</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/chunk.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage.go</file>
+    <line>122</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage.go</file>
+    <line>124</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/storage.go</file>
+    <line>126</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/storage.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/delta.go</file>
+    <line>79</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/delta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver doesn't propagate to other calls</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/delta.go</file>
+    <line>134</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/delta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver doesn't propagate to other calls</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/delta.go</file>
+    <line>237</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/delta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/delta.go</file>
+    <line>248</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/delta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/delta.go</file>
+    <line>254</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/delta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/delta.go</file>
+    <line>263</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/delta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/doubledelta.go</file>
+    <line>141</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/doubledelta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver doesn't propagate to other calls</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/doubledelta.go</file>
+    <line>246</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/doubledelta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/doubledelta.go</file>
+    <line>258</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/doubledelta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/doubledelta.go</file>
+    <line>264</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/doubledelta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/doubledelta.go</file>
+    <line>273</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/doubledelta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/doubledelta.go</file>
+    <line>351</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/doubledelta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver doesn't propagate to other calls</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/doubledelta.go</file>
+    <line>370</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/doubledelta.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver doesn't propagate to other calls</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/remote.pb.go</file>
+    <line>45</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/remote.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/remote.pb.go</file>
+    <line>55</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/remote.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/remote.pb.go</file>
+    <line>66</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/remote.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/remote.pb.go</file>
+    <line>89</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/remote.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/remote.pb.go</file>
+    <line>104</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/remote.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/codable/codable.go</file>
+    <line>186</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/codable/codable.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/codable/codable.go</file>
+    <line>217</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/codable/codable.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/codable/codable.go</file>
+    <line>245</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/codable/codable.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/codable/codable.go</file>
+    <line>275</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/codable/codable.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/codable/codable.go</file>
+    <line>335</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/codable/codable.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/codable/codable.go</file>
+    <line>365</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/codable/codable.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/local/codable/codable.go</file>
+    <line>403</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/local/codable/codable.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/storage/remote/opentsdb/tagvalue.go</file>
+    <line>155</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/storage/remote/opentsdb/tagvalue.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>134</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>160</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>169</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>183</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>249</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>264</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>292</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>332</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>346</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>369</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>383</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>418</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>472</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>488</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>504</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go</file>
+    <line>529</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/message_set.go</file>
+    <line>137</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/message_set.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go</file>
+    <line>162</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go</file>
+    <line>213</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go</file>
+    <line>264</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go</file>
+    <line>241</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver doesn't propagate to other calls</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go</file>
+    <line>142</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_compaction.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/labelset.go</file>
+    <line>167</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/labelset.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/labels.go</file>
+    <line>112</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/labels.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/labels.go</file>
+    <line>125</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/labels.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go</file>
+    <line>43</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go</file>
+    <line>256</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go</file>
+    <line>258</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go</file>
+    <line>260</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go</file>
+    <line>262</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go</file>
+    <line>264</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/value.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/time.go</file>
+    <line>132</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/time.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/time.go</file>
+    <line>153</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/time.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/time.go</file>
+    <line>247</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/common/model/time.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>70</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>80</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>103</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>119</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>136</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>161</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>191</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>209</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>240</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>269</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go</file>
+    <line>330</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_model/go/metrics.pb.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/http2.go</file>
+    <line>220</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/http2.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver doesn't propagate to other calls</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/http2.go</file>
+    <line>231</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/http2/http2.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/internal/timeseries/timeseries.go</file>
+    <line>67</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/internal/timeseries/timeseries.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/internal/timeseries/timeseries.go</file>
+    <line>71</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/internal/timeseries/timeseries.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Assignment to receiver</problem_class>
+    <description>Assignment to method receiver propagates only to callees but not to callers</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/css/graph.css</file>
+    <line>101</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/css/graph.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unknown CSS property</problem_class>
+    <description>Property &lt;code&gt;margin-bottom&lt;/code&gt; is allowed only in following rules: page margin rule, regular ruleset, @page #loc</description>
+  </problem>
+</problems>
+

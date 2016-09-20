@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>190</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Undefined property assignment</problem_class>
+    <description>Property value is not defined in type Element</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>209</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Undefined property assignment</problem_class>
+    <description>Property value is not defined in type Element</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>228</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Undefined property assignment</problem_class>
+    <description>Property value is not defined in type Element</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>927</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property outline is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>928</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property outline overwrites property outline #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>2345</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property outline is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>2346</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property outline overwrites property outline #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>2778</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property outline is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>2779</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property outline overwrites property outline #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>3211</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property border duplicates property border #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>3412</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property border-bottom-width duplicates property border-width #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>5513</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property border duplicates property border #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>5712</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property border duplicates property border #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>50</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>51</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter overwrites property filter #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>53</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property border-color is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>54</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property border-color overwrites property border-color #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>76</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>77</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter overwrites property filter #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>101</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>102</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter overwrites property filter #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>126</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>127</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter overwrites property filter #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>151</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>152</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter overwrites property filter #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>176</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>177</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter overwrites property filter #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>227</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>228</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter overwrites property filter #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>254</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css</file>
+    <line>255</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap-theme.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property filter overwrites property filter #loc</description>
+  </problem>
+</problems>
+

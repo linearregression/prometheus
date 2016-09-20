@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yamlprivateh.go</file>
+    <line>128</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yamlprivateh.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;is_spacez&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/resolve.go</file>
+    <line>68</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/resolve.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;longTag&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/scannerc.go</file>
+    <line>485</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/scannerc.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;cache&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/scannerc.go</file>
+    <line>571</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/scannerc.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;yaml_parser_scan&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/scannerc.go</file>
+    <line>617</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/scannerc.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;trace&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go</file>
+    <line>67</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;yaml_parser_set_input_file&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go</file>
+    <line>76</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;yaml_parser_set_encoding&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go</file>
+    <line>121</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;yaml_emitter_set_output_file&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go</file>
+    <line>130</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;yaml_emitter_set_encoding&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go</file>
+    <line>138</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;yaml_emitter_set_canonical&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go</file>
+    <line>143</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;yaml_emitter_set_indent&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go</file>
+    <line>151</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;yaml_emitter_set_width&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go</file>
+    <line>164</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;yaml_emitter_set_break&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/rawmsg.go</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/rawmsg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;rawSetId&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/rawmsg.go</file>
+    <line>16</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/rawmsg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;rawSetQuestionLen&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/rawmsg.go</file>
+    <line>25</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/rawmsg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;rawSetAnswerLen&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/miekg/dns/rawmsg.go</file>
+    <line>34</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/miekg/dns/rawmsg.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;rawSetNsLen&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>19</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;emitCopy&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go</file>
+    <line>24</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/snappy/encode_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;extendMatch&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/properties.go</file>
+    <line>783</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/properties.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;propByIndex&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>898</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;escape&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>947</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;unescapeString&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_golang/prometheus/http.go</file>
+    <line>42</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_golang/prometheus/http.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;nowSeries&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_darwin_amd64.go</file>
+    <line>1397</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;readlen&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_darwin_amd64.go</file>
+    <line>1408</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/sys/unix/zsyscall_darwin_amd64.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;writelen&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/opt/options.go</file>
+    <line>62</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/opt/options.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;noCacher&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/golang.org/x/net/lex/httplex/httplex.go</file>
+    <line>102</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/golang.org/x/net/lex/httplex/httplex.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused function inspection</problem_class>
+    <description>Unused function &lt;code&gt;isNotToken&lt;/code&gt; #loc</description>
+  </problem>
+</problems>
+

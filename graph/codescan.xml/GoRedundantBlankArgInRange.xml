@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/token.go</file>
+    <line>65</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/token.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant blank argument in range inspection</problem_class>
+    <description>Redundant &lt;code&gt;_&lt;/code&gt; expression</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go</file>
+    <line>1306</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/influxdb/influxdb/tsdb/points.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant blank argument in range inspection</problem_class>
+    <description>Redundant &lt;code&gt;_&lt;/code&gt; expression</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/prometheus/client_golang/prometheus/registry.go</file>
+    <line>425</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/prometheus/client_golang/prometheus/registry.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant blank argument in range inspection</problem_class>
+    <description>Redundant &lt;code&gt;_&lt;/code&gt; expression</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/storage/mem_storage.go</file>
+    <line>81</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/storage/mem_storage.go" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant blank argument in range inspection</problem_class>
+    <description>Redundant &lt;code&gt;_&lt;/code&gt; expression</description>
+  </problem>
+</problems>
+

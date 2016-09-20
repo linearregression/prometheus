@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>159</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>159</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>312</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>312</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>588</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>591</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>602</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>604</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/prom_console.js</file>
+    <line>604</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/prom_console.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>407</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/js/graph.js</file>
+    <line>418</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/js/graph.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>322</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>323</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>899</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>899</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js</file>
+    <line>1324</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/handlebars.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+</problems>
+

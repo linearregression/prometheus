@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>1156</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Potentially invalid constructor usage</problem_class>
+    <description>Constructor call without new</description>
+  </problem>
+</problems>
+

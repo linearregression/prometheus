@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>609</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Potentially invalid reference to 'this' from closure</problem_class>
+    <description>Potentially invalid usage of this</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>612</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Potentially invalid reference to 'this' from closure</problem_class>
+    <description>Potentially invalid usage of this</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>613</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Potentially invalid reference to 'this' from closure</problem_class>
+    <description>Potentially invalid usage of this</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>649</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Potentially invalid reference to 'this' from closure</problem_class>
+    <description>Potentially invalid usage of this</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>650</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Potentially invalid reference to 'this' from closure</problem_class>
+    <description>Potentially invalid usage of this</description>
+  </problem>
+</problems>
+

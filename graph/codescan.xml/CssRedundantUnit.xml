@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/prometheus.html</file>
+    <line>13</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/prometheus.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant measure unit</problem_class>
+    <description>Unit of measure &lt;code&gt;%&lt;/code&gt; is redundant #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/snmp.html</file>
+    <line>13</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/snmp.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant measure unit</problem_class>
+    <description>Unit of measure &lt;code&gt;%&lt;/code&gt; is redundant #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/haproxy-backends.html</file>
+    <line>6</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/haproxy-backends.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant measure unit</problem_class>
+    <description>Unit of measure &lt;code&gt;%&lt;/code&gt; is redundant #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/snmp-overview.html</file>
+    <line>6</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/snmp-overview.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant measure unit</problem_class>
+    <description>Unit of measure &lt;code&gt;%&lt;/code&gt; is redundant #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/aws_redshift.html</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/aws_redshift.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant measure unit</problem_class>
+    <description>Unit of measure &lt;code&gt;%&lt;/code&gt; is redundant #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/haproxy-frontends.html</file>
+    <line>6</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/haproxy-frontends.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant measure unit</problem_class>
+    <description>Unit of measure &lt;code&gt;%&lt;/code&gt; is redundant #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/consoles/node.html</file>
+    <line>13</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/consoles/node.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant measure unit</problem_class>
+    <description>Unit of measure &lt;code&gt;%&lt;/code&gt; is redundant #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/css/graph.css</file>
+    <line>96</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/css/graph.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant measure unit</problem_class>
+    <description>Unit of measure &lt;code&gt;px&lt;/code&gt; is redundant #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/css/graph.css</file>
+    <line>101</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/css/graph.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant measure unit</problem_class>
+    <description>Unit of measure &lt;code&gt;px&lt;/code&gt; is redundant #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/css/prom_console.css</file>
+    <line>115</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/css/prom_console.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant measure unit</problem_class>
+    <description>Unit of measure &lt;code&gt;px&lt;/code&gt; is redundant #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/css/prom_console.css</file>
+    <line>116</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/css/prom_console.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant measure unit</problem_class>
+    <description>Unit of measure &lt;code&gt;px&lt;/code&gt; is redundant #loc</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js</file>
+    <line>309</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/js/jquery.selection.js" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Signature mismatch</problem_class>
+    <description>Invalid number of arguments, expected 3</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js</file>
+    <line>757</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Signature mismatch</problem_class>
+    <description>Invalid number of arguments, expected 2</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js</file>
+    <line>351</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/js/bootstrap.js" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Signature mismatch</problem_class>
+    <description>Argument type boolean is not assignable to parameter type number</description>
+  </problem>
+</problems>
+

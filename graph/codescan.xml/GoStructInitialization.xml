@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_util.go</file>
+    <line>87</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_util.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Struct initialization without field names</problem_class>
+    <description>Unnamed field initialization</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_util.go</file>
+    <line>87</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/db_util.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Struct initialization without field names</problem_class>
+    <description>Unnamed field initialization</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/session_util.go</file>
+    <line>39</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/session_util.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Struct initialization without field names</problem_class>
+    <description>Unnamed field initialization</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/session_util.go</file>
+    <line>39</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/session_util.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Struct initialization without field names</problem_class>
+    <description>Unnamed field initialization</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/session_util.go</file>
+    <line>174</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/session_util.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Struct initialization without field names</problem_class>
+    <description>Unnamed field initialization</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/session_util.go</file>
+    <line>174</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/session_util.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Struct initialization without field names</problem_class>
+    <description>Unnamed field initialization</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go</file>
+    <line>81</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Struct initialization without field names</problem_class>
+    <description>Unnamed field initialization</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go</file>
+    <line>81</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Struct initialization without field names</problem_class>
+    <description>Unnamed field initialization</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go</file>
+    <line>302</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Struct initialization without field names</problem_class>
+    <description>Unnamed field initialization</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go</file>
+    <line>302</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/vendor/github.com/syndtr/goleveldb/leveldb/table.go" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Struct initialization without field names</problem_class>
+    <description>Unnamed field initialization</description>
+  </problem>
+</problems>
+

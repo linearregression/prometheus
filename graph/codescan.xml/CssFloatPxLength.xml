@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>1286</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Float px length</problem_class>
+    <description>Invalid value: should be integer</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>1367</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Float px length</problem_class>
+    <description>Invalid value: should be integer</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>2539</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Float px length</problem_class>
+    <description>Invalid value: should be integer</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>2743</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Float px length</problem_class>
+    <description>Invalid value: should be integer</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>3993</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Float px length</problem_class>
+    <description>Invalid value: should be integer</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css</file>
+    <line>5535</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/static/vendor/bootstrap-3.3.1/css/bootstrap.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Float px length</problem_class>
+    <description>Invalid value: should be integer</description>
+  </problem>
+</problems>
+

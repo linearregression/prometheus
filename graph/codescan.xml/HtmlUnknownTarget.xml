@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/alerts.html</file>
+    <line>2</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/alerts.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/alerts.html</file>
+    <line>2</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/alerts.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'css'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/alerts.html</file>
+    <line>2</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/alerts.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'alerts.css'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/alerts.html</file>
+    <line>3</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/alerts.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/alerts.html</file>
+    <line>3</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/alerts.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/alerts.html</file>
+    <line>3</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/alerts.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'alerts.js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>2</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>2</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'css'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>2</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'graph.css'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>4</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>4</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>4</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'rickshaw'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>4</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'rickshaw.min.css'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>5</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>5</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>5</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'bootstrap-datetimepicker'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>5</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'bootstrap-datetimepicker.min.css'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'rickshaw'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'd3.v3.js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>8</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>8</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>8</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'rickshaw'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>8</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>8</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'd3.layout.min.js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>9</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>9</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>9</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'rickshaw'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>9</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'rickshaw.min.js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>10</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>10</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>10</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'bootstrap-datetimepicker'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>10</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'bootstrap-datetimepicker.js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>11</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>11</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>11</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'bootstrap3-typeahead'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>11</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'bootstrap3-typeahead.min.js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>13</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>13</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>13</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>13</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'handlebars.js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>14</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>14</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>14</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>14</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'jquery.selection.js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>15</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'jquery.hotkeys.js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>17</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>17</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/graph.html</file>
+    <line>17</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/graph.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'graph.js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>6</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>6</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>6</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>6</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'jquery.min.js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'bootstrap-3.3.1'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>7</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'bootstrap.min.js'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>9</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>9</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'vendor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>9</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'bootstrap-3.3.1'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>9</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'css'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>9</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'bootstrap.min.css'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>10</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'static'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>10</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve directory 'css'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>10</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'prometheus.css'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>40</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'alerts'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>45</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'status'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>46</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'flags'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/ui/templates/_base.html</file>
+    <line>49</line>
+    <module>prometheus</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/ui/templates/_base.html" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'targets'</description>
+  </problem>
+</problems>
+
